@@ -9,7 +9,7 @@ Includes codes for product-LALM quantizer and supplementary material
 2. Arcsine
 3. Truncated Normal
 4. Truncated Exponential
-5. <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\sin^2(2\pi&space;x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\sin^2(2\pi&space;x)" title="2 \sin^2(2\pi x)" /></a>
+5. Oscillatory <a href="https://www.codecogs.com/eqnedit.php?latex=2&space;\sin^2(2\pi&space;x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;\sin^2(2\pi&space;x)" title="2 \sin^2(2\pi x)" /></a>
 6. Triangular
 
 ## Schemes compared with
