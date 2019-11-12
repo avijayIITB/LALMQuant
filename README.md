@@ -1,5 +1,4 @@
 # LALMQuant
-Includes codes for product-LALM quantizer and supplementary material
 
 # Simulation Setup and Results
 
